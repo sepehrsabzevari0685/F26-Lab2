@@ -9,3 +9,11 @@
 # TO DO 1:
 # Follow the instructions given in the README.md file.
 
+# lab2b.py
+
+num = int(input("Enter a 4 digit integer: "))
+
+if num == 1984:
+    print("George Orwell")
+else:
+    print("Not quite right!")
