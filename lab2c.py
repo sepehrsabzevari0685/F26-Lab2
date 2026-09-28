@@ -20,3 +20,12 @@
 
 
 
+str1 = input("Enter a sentence: ")
+str2 = input("Enter another sentence: ")
+
+if len(str1) > len(str2):
+    print(f"{str1} is longer then {str2}!")
+elif len(str2) > len(str1):
+    print(f"{str2} is longer then {str1}!")
+else:
+    print(f"{str1} and {str2} are of equal length!")
