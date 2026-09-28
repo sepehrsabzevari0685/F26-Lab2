@@ -7,8 +7,7 @@
 # Usage: ./lab2k.py
 
 # TO DO 1: 
-#Follow the instructions given in the README.md file.
-fruits = ["apple", "banana", "cherry", "date"]
+#Follow the instructions given in the README.md file. fruits = ["apple", "banana", "cherry", "date"]
 
 # Use a for loop to iterate over the list
 #for fruit in fruits:
