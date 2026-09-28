@@ -32,3 +32,23 @@
 
     # TO DO 4: Calculate the square root of num using the math.sqrt function.
 
+
+
+
+import math
+
+num = float(input("Please type in a number: "))
+
+while True:
+    if num < 0:
+        print("Invalid number.")
+        num = float(input("Please type in a number: "))
+        continue
+
+    if num == 0:
+        print("Exiting ...")
+        break
+
+    print(math.sqrt(num))
+
+    num = float(input("Please type in a number: "))
