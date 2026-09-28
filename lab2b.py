@@ -11,6 +11,7 @@
 
 # lab2b.py
 
+
 num = int(input("Enter a 4 digit integer: "))
 
 if num == 1984:
