@@ -11,15 +11,6 @@
 
 
 
-# lab2a.py
-
-#!/usr/bin/env python3
-
-# Author:
-# Date:
-# Purpose: Create a variable, check its type and print the variable.
-# Usage: ./lab2a.py
-
 x = input("Enter a number: ")
 
 print(type(x))
