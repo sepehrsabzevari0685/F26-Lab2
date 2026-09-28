@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date: Learn how to use command line arguments.
+# Author: sepehr sabzevari
+# Date:  28/9/2026 Learn how to use command line arguments.
 # Purpose: .
 # Usage: ./lab2d.py
 
